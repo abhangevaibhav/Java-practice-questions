@@ -1,1 +1,1 @@
-This are my Java Problem solving
+This repository contains my basic Java problem-solving solutions.
